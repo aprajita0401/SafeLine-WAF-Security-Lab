@@ -1,4 +1,4 @@
-# SafeLine WAF Security Lab
+# WebShield - SafeLine WAF Security Lab
 
 A hands-on cybersecurity home lab demonstrating how a Web Application Firewall (WAF) can protect a vulnerable web application from SQL injection, excessive HTTP requests, and unauthorized source IPs.
 
